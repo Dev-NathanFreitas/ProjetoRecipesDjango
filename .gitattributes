@@ -2,3 +2,6 @@
 *.bash linguist-detectable=false
 */scripts/* linguist-detectable=false
 */migrations/* linguist-detectable=false
+
+manage linguist-language=Python
+entrypoint linguist-detectable=false
