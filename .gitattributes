@@ -1,3 +1,4 @@
-*.ps1 linguist-detectable=false
 *.sh linguist-detectable=false
-* text=auto
+*.bash linguist-detectable=false
+*/scripts/* linguist-detectable=false
+*/migrations/* linguist-detectable=false
